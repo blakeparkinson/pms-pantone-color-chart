@@ -1,17 +1,16 @@
 {
     "name": "pantone"
   , "description": "Find the nearest PMS color using hex or rgb colors from CLI or as a dependency."
-  , "version": "0.0.5"
-  , "author": "Nick Baugh <niftylettuce@gmail.com>"
+  , "version": "0.0.8"
+  , "author": "Blake Parkinson <wizardplow@gmail.com>
   , "contributors": [
-      { "name": "Nick Baugh", "email": "niftylettuce@gmail.com" },
-      { "name": "Radu Micu", "email": "radu.micu@gmail.com" }
+      { "name": "Blake Parkinson", "email": "wizardplow@gmail.com" }
     ]
   , "keywords": [ "pantone", "pms", "color", "chart", "printing" ]
-  , "homepage": "https://github.com/teelaunch/pms-pantone-color-chart"
+  , "homepage": "https://github.com/blakeparkinson/pms-pantone-color-chart"
   , "repository": {
         "type": "git"
-      , "url": "https://github.com/teelaunch/pms-pantone-color-chart.git"
+      , "url": "https://github.com/blakeparkinson/pms-pantone-color-chart.git"
     }
   , "engines": {
         "node": ">=0.8.x"
