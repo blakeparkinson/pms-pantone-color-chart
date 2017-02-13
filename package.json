@@ -13,7 +13,7 @@
       , "url": "https://github.com/blakeparkinson/pms-pantone-color-chart.git"
     }
   , "engines": {
-        "node": ">=0.8.x"
+        "node": ">=0.8.0"
       , "npm": "1.1.x"
     }
   , "main": "pantone"
