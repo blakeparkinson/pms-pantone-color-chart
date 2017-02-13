@@ -2,7 +2,7 @@
     "name": "pantone-backbone"
   , "description": "Find the nearest PMS color using hex or rgb colors from CLI or as a dependency."
   , "version": "0.0.8"
-  , "author": "Blake Parkinson <wizardplow@gmail.com>
+  , "author": "Blake Parkinson <wizardplow@gmail.com>"
   , "contributors": [
       { "name": "Blake Parkinson", "email": "wizardplow@gmail.com" }
     ]
